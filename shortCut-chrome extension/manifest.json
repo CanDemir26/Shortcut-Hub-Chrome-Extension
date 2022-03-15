@@ -1,0 +1,18 @@
+{
+    "name": "Shortcut Chrome Extension",
+    "description": "A link hub to reach most used websites",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+"16": "instagram_16.svg",
+"32": "netflix_32.svg",
+"48": "cnn_48.svg",
+"128": "twitter_128.svg",
+"156":"youtube_156.svg"
+},
+
+"action": {
+    "default_popup": "popup.html"
+}
+
+}
